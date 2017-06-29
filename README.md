@@ -2,7 +2,6 @@ Malysh Game Engine Project
 ==========================
 
 Copyright (C) 2017, Bogdan Kozyrev t800@kvkozyrev.org
-
                     Adrey (Abdula) Hamzin abdulla_best@mail.ru
                     
 All rights reserved 
