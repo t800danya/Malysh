@@ -1,4 +1,10 @@
-Kiwi.js 1.4.0
+Malysh Game Engine Project 
+==========================
+Copyright (C) 2017, Bogdan Kozyrev t800@kvkozyrev.org
+                    Adrey (Abdula) Hamzin abdulla_best@mail.ru
+All rights reserved 
+
+Malysh Game Engine Project is baseed on Kiwi.js 1.4.0
 =============
 
 ![Splash](http://kiwi-js.s3.amazonaws.com/wounds-with-friends.jpg)
